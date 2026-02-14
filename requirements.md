@@ -47,3 +47,32 @@
 - **Scalability**: Must handle thousands of concurrent users during placement season (Serverless Architecture).
 - **Latency**: AI responses should appear within 3 seconds to maintain flow.
 - **Accessibility**: Mobile-first design for students without laptops.
+
+## 7. Estimated Implementation Cost
+
+### Development Phase (One-Time)
+
+- **Development**: ₹0 (Student-led hackathon project)
+
+### Monthly Operational Cost (AWS Services)
+
+#### Low Usage (100 Students/Month)
+
+- AWS Lambda: ₹500
+- Amazon Bedrock (Claude 3): ₹2,000
+- DynamoDB: ₹0 (Free tier)
+- S3 + Textract: ₹100
+- **Total**: **₹2,600/month** (~$31 USD)
+
+#### High Usage (10,000 Students/Month)
+
+- AWS Lambda: ₹5,000
+- Amazon Bedrock: ₹50,000
+- DynamoDB: ₹3,000
+- S3 + Textract: ₹5,000
+- **Total**: **₹63,000/month** (~$750 USD)
+
+### Cost Per Student
+
+- **Per Session**: ₹6-10 (vs ₹500-2000 for traditional coaching)
+- **ROI**: 99% cost reduction for students

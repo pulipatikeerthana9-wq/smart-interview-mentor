@@ -53,7 +53,20 @@
 
 ---
 
-## Slide 5: Impact & Future
+## Slide 5: Implementation Cost & Sustainability
+
+**Title**: Affordable & Scalable Solution
+**Content**:
+
+- **Development Cost**: ₹0 (Student-led project)
+- **Operational Cost**: ₹2,600/month for 100 students (~₹26 per student)
+- **Scalability**: At 10,000 students/month, cost is only ₹6-10 per session
+- **Traditional Comparison**: Interview coaching costs ₹500-2000 per session
+- **Impact**: **99% cost reduction**, making quality preparation accessible to all
+
+---
+
+## Slide 6: Impact & Future
 
 **Title**: Building a Job-Ready Bharat
 **Content**:
